@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android16</string>
+    <string-array name="region_list"> //定義清單資料
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+    </string-array>
+</resources>
